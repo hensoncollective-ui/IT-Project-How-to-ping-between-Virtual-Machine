@@ -6,12 +6,9 @@
 <h1>osTicket - IT Diagnostic Basics: How to Ping between IP addresses (with VM as an example) </h1>
 This tutorial shows begginers in the IT world how to ping between virtual machines using "Wireshark" as a medium.<br />
 
+- ###
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
-<h2>Technologies Used</h2>
+<h2>Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -34,7 +31,7 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Access Microsoft Azure and navigate to Virtual Machines. Obtain Public IP address of first virtual machine and access it via remote desktop. Access "Wireshark" application within virtual machine and observe "Ethernet" traffic in app.
 </p>
 <br />
 
