@@ -1,10 +1,10 @@
-# ticket-lifecycle
+# IT Project: How to ping between VMs
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial shows begginers in the IT world how to ping between virtual machines using "Wireshark" as a medium.<br />
 
 
 <h2>Video Demonstration</h2>
