@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - IT Diagnostic Basics: How to Ping between IP addresses (with VM as an example) </h1>
 This tutorial shows begginers in the IT world how to ping between virtual machines using "Wireshark" as a medium.<br />
 
 
@@ -11,24 +11,24 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Windows Powershell (Built-in Admin System)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11 or 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Steps</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Access first Virtual machine (Microsoft Azure) via its public IP address in Remote Desktop
+- Access "Wireshark" protocol analyzer within Virtual Machine and access "Ethernet" readings. Type "icmp" in display filter
+- Recieve Private IP of second Virtual Machine (Microsoft Azure) and Access Windows Powershell within first Virtual Machine 
+- Type command "ping" followed by private IP of second VM in Powershell. Observe ICMP traffic in "Wireshark"
 
-<h2>Lifecycle Stages</h2>
+<h2>Tutorial (Detailed)</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
