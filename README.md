@@ -33,10 +33,8 @@ STEP 1: Access Microsoft Azure and navigate to Virtual Machines. Obtain Public I
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/e8417f6972455560e15d3191f5e5477f88edf743/image2%20(4).jpeg)
+
 STEP 2: In display filter type "icmp" in Ethernet display. Obtain private IP address of second VM and open Windows Powershell inside of first VM.
 </p>
 <br />
