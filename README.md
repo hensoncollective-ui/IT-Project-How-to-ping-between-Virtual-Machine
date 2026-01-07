@@ -41,8 +41,8 @@ In display filter type "icmp" in Ethernet display. Obtain private IP address of 
 </p>
 <br />
 
-![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/2cd3d4fe5dc54f04f86aedec5705460850f03a07/image0%20(20).jpeg0)
-
-  Within Windows Powershell type "ping" followed by private IP of second VM then press "enter". Observe icmp traffic within "Wireshark".
+![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/cea7667b4c18d6fd952aaa533b645bc22257bb77/image0%20(20).jpeg)
+ 
+Within Windows Powershell type "ping" followed by private IP of second VM then press "enter". Observe icmp traffic within "Wireshark".
 </p>
 <br />
