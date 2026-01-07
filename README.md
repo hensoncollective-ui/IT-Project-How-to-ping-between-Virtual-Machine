@@ -29,7 +29,7 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/84b7732706900e9fa7831df3917bff4f8a71a83f/image0%20(21).jpeg)
 
-Access Microsoft Azure and navigate to Virtual Machines. Obtain Public IP address of first virtual machine and access it via remote desktop. Access "Wireshark" application within virtual machine and observe "Ethernet" traffic in app.
+STEP 1: Access Microsoft Azure and navigate to Virtual Machines. Obtain Public IP address of first virtual machine and access it via remote desktop. Access "Wireshark" application within virtual machine and observe "Ethernet" traffic in app.
 </p>
 <br />
 
@@ -37,12 +37,12 @@ Access Microsoft Azure and navigate to Virtual Machines. Obtain Public IP addres
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In display filter type "icmp" in Ethernet display. Obtain private IP address of second VM and open Windows Powershell inside of first VM.
+STEP 2: In display filter type "icmp" in Ethernet display. Obtain private IP address of second VM and open Windows Powershell inside of first VM.
 </p>
 <br />
 
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/cea7667b4c18d6fd952aaa533b645bc22257bb77/image0%20(20).jpeg)
  
-Within Windows Powershell type "ping" followed by private IP of second VM then press "enter". Observe icmp traffic within "Wireshark".
+STEP 3: Within Windows Powershell type "ping" followed by private IP of second VM then press "enter". Observe icmp traffic within "Wireshark".
 </p>
 <br />
