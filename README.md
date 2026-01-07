@@ -25,7 +25,7 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 - Recieve Private IP of second Virtual Machine (Microsoft Azure) and Access Windows Powershell within first Virtual Machine 
 - Type command "ping" followed by private IP of second VM in Powershell. Observe ICMP traffic in "Wireshark"
 
-<h2>Tutorial (Detailed)</h2>
+<h2>Tutorial (with photos)</h2>
 
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/84b7732706900e9fa7831df3917bff4f8a71a83f/image0%20(21).jpeg)
 
