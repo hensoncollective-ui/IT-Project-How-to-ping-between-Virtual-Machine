@@ -6,7 +6,7 @@
 <h1>Microsoft Azure - IT Diagnostic Basics: How to Ping between IP addresses (with VM as an example) </h1>
 This tutorial shows begginers in the IT world how to ping between virtual machines using "Wireshark" as a medium.<br />
 
-- ###
+
 
 <h2>Technologies Used
 
