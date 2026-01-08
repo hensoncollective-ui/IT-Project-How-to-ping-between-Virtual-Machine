@@ -20,10 +20,10 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 <h2>Steps</h2>
 
-- Access first Virtual machine (Microsoft Azure) via its public IP address in Remote Desktop
-- Access "Wireshark" protocol analyzer within Virtual Machine and access "Ethernet" readings. Type "icmp" in display filter
-- Recieve Private IP of second Virtual Machine (Microsoft Azure) and Access Windows Powershell within first Virtual Machine 
-- Type command "ping" followed by private IP of second VM in Powershell. Observe ICMP traffic in "Wireshark"
+1. Access first Virtual machine (Microsoft Azure) via its public IP address in Remote Desktop
+2. Access "Wireshark" protocol analyzer within Virtual Machine and access "Ethernet" readings. Type "icmp" in display filter
+3. Recieve Private IP of second Virtual Machine (Microsoft Azure) and Access Windows Powershell within first Virtual Machine 
+4. Type command "ping" followed by private IP of second VM in Powershell. Observe ICMP traffic in "Wireshark"
 
 <h2>Tutorial (with photos)</h2>
 
