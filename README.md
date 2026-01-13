@@ -39,7 +39,7 @@ STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azu
 
 [Accessing Windows Virtual Machine via Remote Desktop](https://youtu.be/t8guR79pr-s?si=J_re5wnz8rZt3p-N)
 
-STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop and insert login info with password guidelines setup in Virtual machine creation process. (ABOVE)
+STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop using public IP address and insert login info with password guidelines setup in Virtual machine creation process. (ABOVE)
 </p>
 <br />
 
