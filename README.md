@@ -12,11 +12,14 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Windows Powershell (Built-in Admin System)
+- Wireshark Application
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used in Example </h2>
 
 - Windows 11 or 10</b> (21H2)
-
+- Windows Virtual Machine Named: WOLFTWO [Public IP: 74.249.132.17] [Private IP: 10.0.0.5]
+- Linux Virtual Machine Named: FOXTWO [Public IP:20.221.57.87] [Private IP: 10.0.0.4]
+   
 <h2>Steps Summarized</h2>
 
 1. Create Two Virtual Machines (One Linux and One Windows) Obtain Public IP and Private IP of both
@@ -30,7 +33,7 @@ This tutorial shows begginers in the IT world how to ping between virtual machin
 
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/84b7732706900e9fa7831df3917bff4f8a71a83f/image0%20(21).jpeg)
 
-STEP 1: Access Microsoft Azure and navigate to Virtual Machines. Obtain Public IP address of first virtual machine(Windows) and access it via remote desktop. Access "Wireshark" application within virtual machine and observe "Ethernet" traffic.
+STEP 1: Create Virtual Machines (One Linux and One Windows) within Microsoft Azure. Put them within same network. Obtain Public IP and Private IP of both.
 </p>
 <br />
 
