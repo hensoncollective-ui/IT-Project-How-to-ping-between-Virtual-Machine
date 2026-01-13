@@ -45,5 +45,5 @@ STEP 2: Access Windows Virtual Machine (WOLFTWO) via Remote Desktop using public
 
 ![image alt](https://github.com/hensoncollective-ui/IT-Project-How-to-ping-between-Virtual-Machine/blob/30e7e568ea156b0caa3c7a36afc6d9dc824f7038/image0%20(22).jpeg) 
 
-STEP 3: After accessing Windows Virtual Machine (WOLFTWO), open browser and navigate to (https://www.wireshark.org) and install Wireshark application within remote desktop. 
+STEP 3: After accessing Windows Virtual Machine (WOLFTWO), open browser and navigate to (https://www.wireshark.org) and install Wireshark application within remote desktop. Open Wireshark after installation. 
 <br />
